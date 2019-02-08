@@ -1,16 +1,17 @@
-Especificações | normas a utilizar:
+EspecificaÃ§Ãµes | normas a utilizar:
 
   1.	Ferramenta a utilizar: processador de texto Microsoft Word
   2.	Texto:
-   2.1.	tipo de letra – Arial
-   2.2.	tamanho da letra – 10, exceto nos títulos: tamanho 12 e a negrito
+   2.1.	tipo de letra â€“ Arial
+   2.2.	tamanho da letra â€“ 10, exceto nos tÃ­tulos: tamanho 12 e a negrito
    2.3.	alinhamento - justificado
-   2.4.	espaçamento entre linhas – 1,15 linhas
-   2.5.	espaçamento entre parágrafos – depois: 8 ptos
-  3.	Cada capítulo ou parte do trabalho iniciados numa nova página
-  4.	Todas as páginas numeradas, à exceção da capa
-  5.	Todas as páginas com cabeçalho e rodapé personalizados, à exceção da capa
-  6.	Entrega do relatório: formato digital
+   2.4.	espaÃ§amento entre linhas â€“ 1,15 linhas
+   2.5.	espaÃ§amento entre parÃ¡grafos â€“ depois: 8 ptos
+  3.	Cada capÃ­tulo ou parte do trabalho iniciados numa nova pÃ¡gina
+  4.	Todas as pÃ¡ginas numeradas, Ã  exceÃ§Ã£o da capa
+  5.	Todas as pÃ¡ginas com cabeÃ§alho e rodapÃ© personalizados, Ã  exceÃ§Ã£o da capa
+  6.	Entrega do relatÃ³rio: formato digital
 
-Nota: Quaisquer outras formatações utilizadas que contrariem as aqui expostas não serão avaliadas.
-      Data da entrega do relatório: 03 de abril de 2019
+Nota: Quaisquer outras formataÃ§Ãµes utilizadas que contrariem as aqui expostas nÃ£o serÃ£o avaliadas.
+      Data da entrega do relatÃ³rio: 03 de abril de 2019
+      A DATA DE ENTREGA Ã‰ DEFINITIVA
